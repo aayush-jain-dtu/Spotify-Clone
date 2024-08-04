@@ -10,4 +10,4 @@ This project is a clone of the popular music streaming service, Spotify. It is b
 - **Stylish Design**: Uses modern CSS techniques for an attractive and functional design.
 
 ## Demo
-https://github.com/aayush-jain-dtu/Spotify-Clone/blob/main/demo1.png
+![alt text](https://github.com/aayush-jain-dtu/Spotify-Clone/blob/main/demo1.png?raw=true)
