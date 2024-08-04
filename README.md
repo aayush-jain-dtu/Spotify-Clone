@@ -11,3 +11,4 @@ This project is a clone of the popular music streaming service, Spotify. It is b
 
 ## Demo
 ![alt text](https://github.com/aayush-jain-dtu/Spotify-Clone/blob/main/demo1.png?raw=true)
+![alt text](https://github.com/aayush-jain-dtu/Spotify-Clone/blob/main/demo2.png?raw=true)
